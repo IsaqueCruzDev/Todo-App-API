@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaqu\\source\\repos\\todoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48E9C4E-4B95-4865-A88F-F6EE914B8578}|todoApi\\todoApi.csproj|c:\\users\\isaqu\\source\\repos\\todoapi\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48E9C4E-4B95-4865-A88F-F6EE914B8578}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48E9C4E-4B95-4865-A88F-F6EE914B8578}|todoApi\\todoApi.csproj|c:\\users\\isaqu\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48E9C4E-4B95-4865-A88F-F6EE914B8578}|todoApi\\todoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\source\\repos\\todoApi\\todoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "todoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\isaqu\\source\\repos\\todoApi\\todoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "todoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:14:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\source\\repos\\todoApi\\todoApi\\Program.cs",
+              "RelativeDocumentMoniker": "todoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\source\\repos\\todoApi\\todoApi\\Program.cs",
+              "RelativeToolTip": "todoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:13:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
